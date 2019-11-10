@@ -1,0 +1,15 @@
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.Form1.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\FiveSix.exe.config
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\FiveSix.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\FiveSix.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\Xceed.Document.NET.dll
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\Xceed.Words.NET.dll
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\obj\Debug\FiveSix.csproj.CopyComplete
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\EPPlus.dll
+D:\za universiteta\TSP\Domashno6\Domashno6\FiveSix\FiveSix\bin\Debug\EPPlus.xml

@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\bin\Debug\User.exe.config
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\bin\Debug\User.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\bin\Debug\User.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.Form1.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\User\User\obj\Debug\User.pdb

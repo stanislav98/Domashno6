@@ -1,0 +1,11 @@
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\bin\Debug\CopyText.exe.config
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\bin\Debug\CopyText.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\bin\Debug\CopyText.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.Form1.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.exe
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.pdb
+D:\za universiteta\TSP\Domashno6\Domashno6\CopyText\CopyText\obj\Debug\CopyText.Form2.resources
